@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+networkx==2.7
+pyvis==0.1.9
+requests==2.26.0
